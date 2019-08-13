@@ -1,5 +1,5 @@
 #remove all the digits from given string
-inp="test1254abc10108done"
+inp="test1254ab995drgdc10108done"
 inp=inp.replace("0","")
 inp=inp.replace("1","")
 inp=inp.replace("2","")
